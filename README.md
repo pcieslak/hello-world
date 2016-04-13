@@ -1,2 +1,4 @@
 # hello-world
-this is repo for learning how to use github
+
+Hello everyone.
+My name is Piotr and I am starting my journey with github. I would like to keep here soe interesting projects.
